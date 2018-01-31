@@ -1,0 +1,75 @@
+
+TP exterieur Comico central (DEMANDER CONFIRMATION DU TP (apuyez sur "E")):
+
+X : 442.694
+Y : -999.623
+Z : 30.7232
+
+TP Interieur Comico central (DEMANDER CONFIRMATION DU TP (apuyez sur "E")):
+
+X : 445.869
+Y : -996.656
+Z : 30.6896
+
+------------------------------------------------------------
+
+Spawn Hélico Comico central :
+
+X : 449.243
+Y : -981.284
+Z : 43.6917
+
+-------------------------------------------------------------
+
+Spawn Bateau (Derière comico central) LE METTRE DANS LE SPAWN GARAGE AU COMICO
+ET CELA VA NOUS TP DANS LE BATEAU A SON POINT DE SPAWN 
+
+X : 655.385
+Y : -1518.5
+Z : 10.1854
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+Vestiaire paleto bay : 
+
+X : -448.234
+Y : 6008.11
+Z : 31.7164
+
+--------------------------------------------------------------
+
+Menu TP Hélico police paleto bay : 
+
+X : -465.55
+Y : 5999.66
+Z : 31.3004
+
+Spawn Hélico police paleto bay (pas besoin de point de despawn):
+
+X : -475.355
+Y : 5988.6
+Z : 31.3367
+
+---------------------------------------------------------------
+
+Menu TP Voiture paleto bay : 
+
+X : -449.945
+Y : 6003.59
+Z : 31.4901
+
+Spawn Voiture paleto bay : 
+
+X : -450.012
+Y : 5991.28
+Z : 31.3405
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+Spawn des nouveaux joueurs :
+
+X :-1049.55
+Y :-2768.19
+Z : 4.6398

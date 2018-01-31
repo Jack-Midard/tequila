@@ -13,21 +13,14 @@ METIER :
 ================
 - Métier Unicorn : Barman et Danseur peuvent avoir accès au coffre d'entreprise.
 - Métier Unicorn, coffre Entreprise : Pourquoi des armes dans le menu ?
-- Machine à café ne fonctionne pas : Après avoir appuyé sur "E" rien ne ce passe.
 - Métier Mécono : Tous les grades peuvent voir le point réservé au patron, mais personne ne peut l'ouvrir (y compris patron).
-- Traduire nom des entreprises.
 - Récolter, traiter et vendre en véhicule.
-- Pas de barre de vie quand on n'a pas acheter la mini map.
 - Station Essence : Elle nous fait payer les centimes.
 - Métier Pêcheur : Impossible de prendre la tenue de travail (métier HS).
 - Métier Bucheron : Impossible de prendre la tenue de travail (métier HS).
 - Métier Rafineur : Impossible de prendre la tenue de travail (métier HS).
 - Métier Journaliste : pas de point de prise de service au Lifeinvader.
 - Parfois possible de récupérer les armes des PNJ.
-- Pas de touche assignée pour la protée du chat vocal.
-
-
-
 
 
 ================

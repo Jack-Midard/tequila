@@ -1,12 +1,22 @@
 ================
 LISTE DES BUGS :
 ================
-Téléphone :
 
+
+
+- Le menu du coffre véhicule ne s'affice pas (fermer le coffre touche : DEL). 
+- Pas d'UHD en haut à droite.
+- Changer la touche du véroullage véhicule ou le menu coffre car ils sont sur la même touche.
+- Menu coffre, le mettre en haut à gauche au lieu de en bas à droite.
+- A chaque connections le spawn est définit au premier spawn des nouveaux arrivants avec un skin de NPCs.
+- Le menu du coffre véhicule ne s'affice pas (fermer le coffre touche : DEL). 
+- Le menu de création du personnage n'apparait pa pour les nouveaux
+- Le tel reste bloquée dans la main après l'avoir utilisé.
 - Quand le tél est fermé l'animation n'est pas annulée.
 - Impossible d'ajouter des contacts (pas de navigation possible avec les flèches directionnelles).
-- Métiers Police, secours ... : impossible d'envoyer de messages personnalisés.
-- Banque : faire un virement.
+- Téléphone : lors de réception d'un message qui ne fait pas parti des métiers, on peut avoir la position de l'émetteur en appuyant sur "U".
+- Téléphone : Lors de la reception d'un message L'UHD apparait 2 foisau dessus de la mini map en disant : "Nouveau Message".
+- Téléphone : Problème cannaux vocal, désactive le chat voc et ne permet pas de parler dans le tel (voir ajout cannal).
 
 =================
 METIER :
@@ -30,14 +40,6 @@ Ajout :
 - Scipt clignotants.
 - Touche "B" pour pointer du doigt.
 - Touche "CTRL" pour s'accroupir.
-- New Teléphone.
-- Scipte permetant de fermer les féhicules PNJ et Perso.
-- Mettre véhicules moddés (police).
-
-
-
-
-
 
 ================
 Modification :
@@ -54,8 +56,10 @@ Z :29.2695
 - MODIFICATION DU PRIX DE CERTAINES VOITURES AU CONCESSIONNAIRE (voir pour augmentation).
 - Changer emplacement du spawn de véhicules après achat (spawn actuel : en travert de la porte de garage).
 - Métier Mécano : Faire en sorte qu'il n'y est que eux qui puissent modif les upgrade voitures (désactiver les LS Customs).
-- Changer le menu Admin.
-
+- Le carré noir qui cache le gps non acheté n'est pas assez grand (modif optionelle).
+- Changer le blips Vigneron, replace par un grappe de raisin.
+- Menu véhicule
+- Changé script vérouillages véhicules
 
 
 ================
@@ -71,18 +75,10 @@ Suppression:
 - Rétricule de visée.
 - Blips LSCustom
 - Blips Mechanic (garder que le blips mecano).
+-Unicorn : Point achat nourriture.
 
 
 ================
-Suppression appli (tel) :
+Suppression appli :
 ================
-- Assureur
-- Routier (à remettre ci entreprise montée)
-- Chômeur
-- Avocat
-- Tatoo
-- KBS ???
-- LS Custom
-- Gouverneur
-
 - Achat de bidons d'essence aux stations.

@@ -10,6 +10,7 @@ METIER :
 - Métier Unicorn : Barman et Danseur peuvent avoir accès au coffre d'entreprise.
 - Métier Unicorn, coffre Entreprise : Pourquoi des armes dans le menu ?
 - Métier Mécono : Tous les grades peuvent voir le point réservé au patron, mais personne ne peut l'ouvrir (y compris patron).
+- Le blips du cinéma apparait tous le temps sur la MINI MAP.
 
 ================
 Ajout :

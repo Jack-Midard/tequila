@@ -4,6 +4,10 @@ LISTE DES BUGS :
 
 MAJ LE 02/02/2018
 
+
+
+
+
 =================
 METIER :
 ================
@@ -35,6 +39,8 @@ Z :29.2695
 Suppression:
 ================
 
+
+- La commande /setjob ne fonctionne plus
 - Noms au dessus de la tête des joueurs.
 - Métier Mécano : Enlever le turbo (réservé à la police).
 - Blips LSCustom
@@ -44,3 +50,5 @@ Suppression:
 Suppression appli :
 ================
 - Achat de bidons d'essence aux stations.
+- Menu Admin : - Mode Invicible ne fonctionne pas.
+               - Afficher joueurs fonctionne mais pas Cacher.
